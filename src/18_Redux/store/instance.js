@@ -1,0 +1,5 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+
+export const CHANGE_BANNER = "CHANGE_BANNER"
+export const FETCH_BANNER = "FETCH_BANNER"
